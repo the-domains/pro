@@ -1,0 +1,28 @@
+name: Pro
+favicon: null
+layout_spectrum: 0.7128025409765542
+typography_spectrum: 0.15341376117430627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4937684971373528
+  lightness: 0.5038229608908296
+  saturation: 0.3436349437106401
+  rhythmicContrast: 0.25364507222548127
+purpose: []
